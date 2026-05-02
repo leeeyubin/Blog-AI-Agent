@@ -186,8 +186,5 @@ GOOGLE_SEARCH_ENGINE_ID=your_search_engine_id
 
 | Service | URL |
 |---------|-----|
-| n8n | `https://n8n.leeeyubin.cloud` |
 | WordPress | `https://leeeyubin.cloud` |
-| Portainer | `https://portainer.leeeyubin.cloud` |
-| phpMyAdmin | `https://pma.leeeyubin.cloud` (IP restricted) |
 | FastAPI | `https://api.leeeyubin.cloud` |
